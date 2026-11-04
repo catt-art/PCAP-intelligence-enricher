@@ -59,8 +59,8 @@ python main.py capture.pcap
 範例：
 
 ```bash
-python pcap_vt_lookup.py capture.pcap --top 10 --json-out result.json
-python pcap_vt_lookup.py --help
+python main.py capture.pcap --top 10 --json-out result.json
+python main.py --help
 ```
 
 ## 輸出範例
